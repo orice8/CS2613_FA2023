@@ -1,1 +1,1 @@
-# CS2613_FA2023
+# CS2613 Fall 2023 Semester
